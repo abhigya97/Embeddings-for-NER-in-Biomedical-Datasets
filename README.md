@@ -1,6 +1,6 @@
 # Studying-the-Effect-of-Embeddings-on-Named-Entity-Recognition-For-Biomedical-Datasets
 
-This is the sample code for the project conducted for ANLP class at IU Bloomington.
+This is the sample code for the project conducted for ANLP course at IU Bloomington.
 
 ## Abstract
 This project is an attempt to study how different embeddings affect the performance of the named entity recognition model. We have experimented with different word embeddings such as Glove (Pennington et al. (2014)), BERT (Devlin et al. (2019)) and PubMed contextualized embeddings (Sharma and au2 (2019)) and their combinations. We have used Biomedical datasets to test the named entity recognition accuracy. We have reported the testing F1 scores for all embeddings and corresponding datasets. It is interesting to see how some embeddings perform better on medical datasets while others perform poorly.
