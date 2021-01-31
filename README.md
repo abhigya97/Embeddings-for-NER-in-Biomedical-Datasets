@@ -8,6 +8,10 @@ This project is an attempt to study how different embeddings affect the performa
 Biomedical datasets are usually smaller in size and are much harder to annotate. The named entity recognition on these datasets is still an on-going task. Being able to determine which embeddings perform better for such datasets will help improve the results of named entity recognition models for biomedical data. In our outcomes, we have noticed that PubMed contextualized embeddings and BERT embeddings give a better performance both individually and in combination.
 
 ## Results
+
+<img width="557" alt="Screen Shot 2021-01-31 at 3 01 23 PM" src="https://user-images.githubusercontent.com/69980927/106396334-372fde80-63d5-11eb-90ce-e261d8763baa.png">
+
+
 The table shows the F1 scores obtained after testing the named entity recognition models. The columns correspond to the different datasets and the rows correspond to the embeddings used to train the models. Most of the datasets are divided into training, development, and testing data. For some datasets, development data was missing, for these datasets, testing data was treated as development data. The size of the training dataset ranged from 891 examples to 5331 examples for individual datasets.
 
 All models were trained for 100 epochs and with a mini batch-size of 128. The initial learning rate was kept as 0.1, the learning rate was adaptable and the trainer decreased the learning rate as needed. The hidden dimension was chosen to be 256. The models were trained using Google Colab Pro GPUs. All models were trained only once because of a lack of resources and time. Ideally, models should have been trained several times and the average results should have been reported. The training and testing result for multiple datasets with PubMed and BERT embeddings could not be computed in the given time-frame of the project due to the lack of proper hardware needed to train them.
