@@ -29,6 +29,7 @@ Alan Akbik, Duncan Blythe, and Roland Vollgraf. Contextual string embed- dings f
 Q. Chen, Y. Peng, and Z. Lu. Biosentvec: creating sentence embeddings for biomedical texts. In 2019 IEEE International Conference on Healthcare Informatics (ICHI), pages 1–5, 2019. doi: 10.1109/ICHI.2019.8904728.
 
 Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. Bert: Pre-training of deep bidirectional transformers for language understand- ing, 2019.
+
 Rezarta Islamaj Doğan, Robert Leaman, and Zhiyong Lu. Ncbi disease corpus: A resource for disease name recognition and concept normal- ization. Journal of Biomedical Informatics, 47:1–10, Feb 2014. doi: 10.1016/j.jbi.2013.12.006.
 
 Alistair E.w. Johnson, Tom J. Pollard, Lu Shen, Li-Wei H. Lehman, Mengling Feng, Mohammad Ghassemi, Benjamin Moody, Peter Szolovits, Leo Anthony Celi, Roger G. Mark, and et al. Mimic-iii, a freely accessible critical care database. Scientific Data, 3(1), 2016. doi: 10.1038/sdata. 2016.35.
@@ -42,6 +43,7 @@ Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christo- pher Clark,
 Sampo Pyysalo, Filip Ginter, Juho Heimonen, Jari Björne, Jorma Boberg, Jouni Järvinen, and Tapio Salakoski. Bioinfer: a corpus for information extraction in the biomedical domain. BMC Bioinformatics, 8(1), 2007. doi: 10.1186/1471-2105-8-50.
 
 Sampo Pyysalo, Tomoko Ohta, and Sophia Ananiadou. Overview of the cancer genetics (CG) task of BioNLP shared task 2013. In Proceedings of the BioNLP Shared Task 2013 Workshop, pages 58–66, Sofia, Bulgaria, August 2013. Association for Computational Linguistics. URL https: //www.aclweb.org/anthology/W13-2008.
+
 C. Ronran and S. Lee. Effect of character and word features in bidirectional lstm-crf for ner. In 2020 IEEE International Conference on Big Data and Smart Computing (BigComp), pages 613–616, 2020. doi: 10.1109/ BigComp48618.2020.00132.
 
 A. Shaik and W. Jin. Biomedical semantic embeddings: Using hybrid sen- tences to construct biomedical word embeddings and its applications. In 2019 IEEE International Conference on Healthcare Informatics (ICHI), pages 1–9, 2019. doi: 10.1109/ICHI.2019.8904533.
